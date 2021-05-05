@@ -1,0 +1,4 @@
+#Wed May 05 00:00:23 IST 2021
+base.0=/Users/tanya/Desktop/ACM/connection/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
